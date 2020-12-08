@@ -1,0 +1,3 @@
+animations: https://greensock.com/ease-visualizer/
+
+page animation: https://barba.js.org/docs/getstarted/install/ => barba js
